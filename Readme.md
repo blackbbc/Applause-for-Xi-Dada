@@ -2,10 +2,10 @@
 
 ## Demo
 
-### Before
+### Before(Click by hands)
 ![1](demo/before.gif)
 
-### After
+### After(Click by monkey!)
 ![2](demo/after.gif)
 
 ## Usage
